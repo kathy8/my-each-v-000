@@ -8,7 +8,7 @@ def my_each(array)
 end
 
   my_each([]) do |words|
-    print "#{words} /n"
+    print "#{words} \n"
   end
   # put argument(s) here
   # code here
